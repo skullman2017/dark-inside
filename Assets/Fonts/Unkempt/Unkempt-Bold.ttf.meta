@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a2385710b6c2c314a9a290a6435f7544
+timeCreated: 1497992999
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Unkempt
+  fontNames:
+  - Unkempt
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5e3e58fabbc07bc4aab6f9079077c5dd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

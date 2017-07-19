@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 848639f89f3bd904b9c021f9a3a18ebe
+timeCreated: 1497993116
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ranga
+  fontNames:
+  - Ranga
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 618e3f37de455a94d82c3a1a860085ed, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
