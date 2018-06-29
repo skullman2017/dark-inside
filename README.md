@@ -2,7 +2,7 @@
 > A puzzle platformer inspired from limbo!.
 
 
-![ScreenShot](https://s17.postimg.org/4pvl4ey3j/image.png)
+![ScreenShot](https://i.imgur.com/0NslXnq.png)
 
 ## Support on Beerpay
 Hey dude! Help me out for a couple of :beers:!
